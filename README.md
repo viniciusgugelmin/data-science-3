@@ -36,13 +36,13 @@
 - Alunos:
   - Vinícius Kruchelski Gugelmin
 - Projetos:
-  - [xxxxx](https://github.com/viniciusgugelmin/data-science-3/tree/master/projects/xxxxx)
-    - [Dataset](https://github.com/viniciusgugelmin/data-science-3/blob/master/projects/xxxxx/data/dataset.csv)
-    - [Dicionário de Dados](https://github.com/viniciusgugelmin/data-science-3/blob/master/projects/xxxxx/data/data_dictionary.txt)
-    - [Dataset limpo](https://github.com/viniciusgugelmin/data-science-3/blob/master/projects/xxxxx/data/dataset_clean.csv)
-    - [Notebook de Limpeza](https://github.com/viniciusgugelmin/data-science-3/blob/master/projects/xxxxx/notebooks/cleaning.ipynb)
-    - [Notebook de Aprendizado Supervisionado](https://github.com/viniciusgugelmin/data-science-3/blob/master/projects/xxxxx/notebooks/machine_learning.ipynb)
-    - [Referências](https://github.com/viniciusgugelmin/data-science/blob/master/projects/xxxxx/README.md)
+  - [Valorant Stats](https://github.com/viniciusgugelmin/data-science-3/tree/master/projects/valorant_stats)
+    - [Dataset](https://github.com/viniciusgugelmin/data-science-3/blob/master/projects/valorant_stats/data/dataset.csv)
+    - [Dicionário de Dados](https://github.com/viniciusgugelmin/data-science-3/blob/master/projects/valorant_stats/data/data_dictionary.csv)
+    - [Dataset limpo](https://github.com/viniciusgugelmin/data-science-3/blob/master/projects/valorant_stats/data/dataset_clean.csv)
+    - [Notebook de Limpeza](https://github.com/viniciusgugelmin/data-science-3/blob/master/projects/valorant_stats/notebooks/cleaning.ipynb)
+    - [Notebook de Aprendizado Supervisionado](https://github.com/viniciusgugelmin/data-science-3/blob/master/projects/valorant_stats/notebooks/machine_learning.ipynb)
+    - [Referências](https://github.com/viniciusgugelmin/data-science/blob/master/projects/valorant_stats/README.md)
 
 <a name="about-the-project"></a>
 
