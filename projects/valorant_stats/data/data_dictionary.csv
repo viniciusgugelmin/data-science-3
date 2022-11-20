@@ -1,35 +1,35 @@
-region,área do servidor
-name,nome do jogador em jogo
-tag,etiqueta do jogador em jogo
-rating,elo/rank do jogador
-damage_round,média de dano efetuado por rodada em todos os jogos
-headshots,total de pessoas eliminadas com tiro na cabeça
-headshot_percent,percentual de tiros que foram na cabeça
-aces,número total de rodadas que eliminou todos os jogadores oponentes sozinho
-clutches,número total de rodadas que ficou vivo sozinho e ainda ganhou
-flawless,número total de rodadas em que todo mundo da equipe eliminou um jogador oponente
-first_bloods,número total de primeiras eliminações de jogadores oponentes em rodadas
-kills,número total de eliminações de jogadores oponentes
-deaths,número total de vezes que foi eliminado
-assists,número total de participações em eliminações de jogadores oponentes
-kd_ratio,proporção de eliminações e de vezes que foi eliminado
-kills_round,média de eliminações por rodada
-most_kills,maior quantidade de eliminações que efetuou em uma partida
-score_round,média de pontos por rodada
-wins,número total de jogos ganhos
-win_percent,percentual de vitória em jogos
-agent_1,personagem mais jogado
-agent_2,segundo personagem mais jogado
-agent_3,teceiro personagem mais jogado
-gun1_name,arma mais utilizada
-gun1_head,percentual de eliminações com tiro na cabeça com a arma mais utilizada
-gun1_body,percentual de eliminações com tiro no corpo com a arma mais utilizada
-gun1_legs,percentual de eliminações com tiro nas pernas com a arma mais utilizada
-gun2_name,segunda arma mais utilizada
-gun2_head,percentual de eliminações com tiro na cabeça com a segunda arma mais utilizada
-gun2_body,percentual de eliminações com tiro no corpo com a segunda arma mais utilizada
-gun2_legs,percentual de eliminações com tiro nas pernas com a segunda arma mais utilizada
-gun3_name,terceira arma mais utilizada
-gun3_head,percentual de eliminações com tiro na cabeça com a terceira arma mais utilizada
-gun3_body,percentual de eliminações com tiro no corpo com a terceira arma mais utilizada
-gun3_legs,percentual de eliminações com tiro nas pernas com a terceira arma mais utilizada
+ï»¿region;Ã¡rea do servidor
+name;nome do jogador em jogo
+tag;etiqueta do jogador em jogo
+rating;elo/rank do jogador
+damage_round;mÃ©dia de dano efetuado por rodada em todos os jogos
+headshots;total de pessoas eliminadas com tiro na cabeÃ§a
+headshot_percent;percentual de tiros que foram na cabeÃ§a
+aces;nÃºmero total de rodadas que eliminou todos os jogadores oponentes sozinho
+clutches;nÃºmero total de rodadas que ficou vivo sozinho e ainda ganhou
+flawless;nÃºmero total de rodadas em que todo mundo da equipe eliminou um jogador oponente
+first_bloods;nÃºmero total de primeiras eliminaÃ§Ãµes de jogadores oponentes em rodadas
+kills;nÃºmero total de eliminaÃ§Ãµes de jogadores oponentes
+deaths;nÃºmero total de vezes que foi eliminado
+assists;nÃºmero total de participaÃ§Ãµes em eliminaÃ§Ãµes de jogadores oponentes
+kd_ratio;proporÃ§Ã£o de eliminaÃ§Ãµes e de vezes que foi eliminado
+kills_round;mÃ©dia de eliminaÃ§Ãµes por rodada
+most_kills;maior quantidade de eliminaÃ§Ãµes que efetuou em uma partida
+score_round;mÃ©dia de pontos por rodada
+wins;nÃºmero total de jogos ganhos
+win_percent;percentual de vitÃ³ria em jogos
+agent_1;personagem mais jogado
+agent_2;segundo personagem mais jogado
+agent_3;teceiro personagem mais jogado
+gun1_name;arma mais utilizada
+gun1_head;percentual de eliminaÃ§Ãµes com tiro na cabeÃ§a com a arma mais utilizada
+gun1_body;percentual de eliminaÃ§Ãµes com tiro no corpo com a arma mais utilizada
+gun1_legs;percentual de eliminaÃ§Ãµes com tiro nas pernas com a arma mais utilizada
+gun2_name;segunda arma mais utilizada
+gun2_head;percentual de eliminaÃ§Ãµes com tiro na cabeÃ§a com a segunda arma mais utilizada
+gun2_body;percentual de eliminaÃ§Ãµes com tiro no corpo com a segunda arma mais utilizada
+gun2_legs;percentual de eliminaÃ§Ãµes com tiro nas pernas com a segunda arma mais utilizada
+gun3_name;terceira arma mais utilizada
+gun3_head;percentual de eliminaÃ§Ãµes com tiro na cabeÃ§a com a terceira arma mais utilizada
+gun3_body;percentual de eliminaÃ§Ãµes com tiro no corpo com a terceira arma mais utilizada
+gun3_legs;percentual de eliminaÃ§Ãµes com tiro nas pernas com a terceira arma mais utilizada
